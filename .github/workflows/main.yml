@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: for-A1kaid/fork-sync@v1.8
+      - uses: tgymnich/fork-sync@v1.8
         with:
           owner: for-A1kaid
           base: main
